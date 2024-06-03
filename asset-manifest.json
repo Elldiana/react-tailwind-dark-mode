@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-dark-mode/static/css/main.76556f1e.css",
+    "main.js": "/react-tailwind-dark-mode/static/js/main.f75d1751.js",
+    "static/js/453.3ad2f1a3.chunk.js": "/react-tailwind-dark-mode/static/js/453.3ad2f1a3.chunk.js",
+    "index.html": "/react-tailwind-dark-mode/index.html",
+    "main.76556f1e.css.map": "/react-tailwind-dark-mode/static/css/main.76556f1e.css.map",
+    "main.f75d1751.js.map": "/react-tailwind-dark-mode/static/js/main.f75d1751.js.map",
+    "453.3ad2f1a3.chunk.js.map": "/react-tailwind-dark-mode/static/js/453.3ad2f1a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76556f1e.css",
+    "static/js/main.f75d1751.js"
+  ]
+}
